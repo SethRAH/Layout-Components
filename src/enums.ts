@@ -1,0 +1,1 @@
+export enum SizeFlag { Fill, Begin, Center, End};
